@@ -2,8 +2,6 @@
 
 Desenvolvendo um controle remoto.
 
-## Entrega 1
-
 ### Integrantes
 
 - Fabricio Neri Lima
@@ -25,11 +23,12 @@ Jogadores de Counter Strike que procuram uma nova mecânica de jogabilidade mais
 
 O software a ser controlado é o jogo Counter Strike para PC.
 
-### Jornada do usuários (3 pts)
+### Jornada do usuários
 
 Jornada do Pedro:
 
 Pedro é um jogador destro, então para jogar uma partida, utilizará o controle IMECON. Com seu lado esquerdo, ele consegue usar um equipamente para recarregar a arma e trocá-la, enquanto que com o lado direito ele consegue atirar, transladar e rotacionar. Assim, ele consegue cumprir as funcionalidades principais do jogo com o controle IMECON.
+
 
 Para agachar, o Pedro utiliza seu braço esquerdo, movendo o para o lado Já para jogar, utiliza o gatilho do controle, e para se mover, move o analógico. O movimento da visão do jogador é feito por Pedro ao mover rapidamente o controle para um dos lados.
 
@@ -39,7 +38,7 @@ João é um jogador canhoto, então para jogar uma partida, utilizará o control
 
 Para agachar, o João utiliza seu braço direito, movendo o para o lado, enquanto que para trocar de arma, move o mesmo braço para o outro lado. Já para jogar, utiliza o gatilho do controle, e para se mover, move o analógico. O movimento da visão do jogador é feito por João ao mover rapidamente o controle para um dos lados.
 
-### Comandos/ Feedbacks (2 pts)
+### Comandos/ Feedbacks 
 
 **Comandos e operações** 
 
@@ -49,7 +48,7 @@ Atirar, agachar, pular, se locomover (transladar e rotacionar) e abrir o menu.
 
 Vibração e led piscando de acordo com o dano recebido.
 
-## In/OUT (3 pts)
+## In/OUT 
 
 
 Para cada Comando/ Feedback do seu controle, associe qual sensores/ atuadores pretende utilizar? Faca em formato de lista, exemplo:
@@ -74,7 +73,7 @@ Para cada Comando/ Feedback do seu controle, associe qual sensores/ atuadores pr
     Racional: Pular é uma ação binária, logo, apenas apertar um botão é algo que já iria satisfazer.
 
 ### Video
-[![Game Play](https://www.youtube.com/watch?v=3tfhDoeAuwk&ab_channel=Fabr%C3%ADcioNeri)](https://www.youtube.com/watch?v=3tfhDoeAuwk&ab_channel=Fabr%C3%ADcioNeri)
+[![Game Play](https://user-images.githubusercontent.com/39420630/173192694-505a1d99-1187-4929-9e7b-8719f6dddf81.png)](https://www.youtube.com/watch?v=3tfhDoeAuwk&ab_channel=Fabr%C3%ADcioNeri)
 
 ### Design (2 pts)
 ![WhatsApp Image 2022-03-25 at 18 24 21](https://user-images.githubusercontent.com/39420630/160203064-91dcde8b-8e27-4d75-9cf4-bc7833bdbbdd.jpeg)
